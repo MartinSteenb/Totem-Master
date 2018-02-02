@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "385846265025",
+    "firebase_url": "https://totem-master.firebaseio.com",
+    "project_id": "totem-master",
+    "storage_bucket": "totem-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385846265025:android:aba3cb7ed8c610a5",
+        "android_client_info": {
+          "package_name": "initi.totemmaster.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385846265025-8n0aeif3lsg0ndd2mklbqf45ptpsticl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCk-iQDk8TLAy72NO0H5nG7R-6yWjgFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+}
